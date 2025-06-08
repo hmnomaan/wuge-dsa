@@ -134,3 +134,11 @@ This project is licensed under the [License Name] License - see the LICENSE file
 3. Add contribution guidelines if open-source
 4. Include environment variables/dependencies
 5. Add roadmap/future features section
+
+file zipper,
+metro/flight route system,
+spliting system, 
+sudoku solver,
+ rate limiting,
+tiny url ,
+ travel planner
